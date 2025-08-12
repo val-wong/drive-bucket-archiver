@@ -1,0 +1,9 @@
+# .gitignore
+client_secret.json
+token.json
+.env
+client_secret.json
+token.json
+.env
+.venv/
+__pycache__/
